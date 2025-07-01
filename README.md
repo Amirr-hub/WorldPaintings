@@ -1,19 +1,19 @@
-# WorldPaintings
-This project explores a dataset of global paintings and museum collections using SQL to uncover insights related to art styles, subject matter, and international artist presence.
+# 🎨 World Paintings: A SQL Exploration
 
-**overview**
-The goal of this project was to practice SQL querying and data analysis by answering real-world questions about how paintings are distributed across museums worldwide. The analysis focuses on Cubism, artist visibility across countries, and subject patterns within painting styles.
+This project analyzes a global dataset of paintings and museum collections using SQL to uncover insights related to art styles, subject matter, and international artist presence.
 
-**Key Takeaways**
+## 📌 Overview
+The goal of this project was to strengthen SQL querying and data analysis skills by answering real-world questions about how artworks are distributed across museums worldwide. The analysis focuses on identifying patterns in Cubism representation, artist visibility across countries, and recurring subjects within various painting styles.
 
---Museums with a strong representation of Cubism also tend to showcase a diverse range of other modern art styles.
+## 🔍 Key Takeaways
+- Museums with a strong representation of Cubism also tend to showcase a diverse range of other modern art styles.
+- A small number of artists are featured in museums across many countries, indicating global recognition and appeal.
+- Subjects like portraits and landscapes are consistently more common within specific styles, suggesting a strong link between subject matter and artistic movement.
+- These patterns offer valuable insights for curators and cultural institutions looking to shape or analyze exhibitions.
+- Future analysis could explore temporal trends to understand how painting styles evolve over time.
 
---A small number of artists are featured across a large number of countries, highlighting global recognition.
+## 🛠 Tools Used
+- SQL (PostgreSQL or SQLite)
+- Google Docs (for presenting answers and insights)
 
---Subjects like portraits and landscapes are consistently more common within specific styles, suggesting a strong link between artistic movement and subject matter.
-
---These patterns can support curators and cultural institutions in understanding and shaping exhibitions.
-
---Future analysis could explore temporal trends in painting styles over time.
-
-Access Project here: https://drive.google.com/file/d/1Icuo_S341YcLGheLqwBClylydMgktZWD/view?usp=sharing
+## 📂 Access Project here: https://drive.google.com/file/d/1Icuo_S341YcLGheLqwBClylydMgktZWD/view?usp=sharing
