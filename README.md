@@ -1,7 +1,9 @@
 # WorldPaintings
 This project explores a dataset of global paintings and museum collections using SQL to uncover insights related to art styles, subject matter, and international artist presence.
+
 **overview**
 The goal of this project was to practice SQL querying and data analysis by answering real-world questions about how paintings are distributed across museums worldwide. The analysis focuses on Cubism, artist visibility across countries, and subject patterns within painting styles.
+
 **Key Takeaways**
 --Museums with a strong representation of Cubism also tend to showcase a diverse range of other modern art styles.
 --A small number of artists are featured across a large number of countries, highlighting global recognition.
